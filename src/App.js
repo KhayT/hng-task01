@@ -1,4 +1,3 @@
-import "./App.css";
 import Footer from "./components/Footer";
 import Links from "./components/Links";
 import img from "./images/khadijah.jpg";
